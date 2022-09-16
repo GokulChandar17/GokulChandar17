@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gokul
-- 👀 I’m interested in Python and Java. 
+- 👀 I’m interested in Python, Java and UI design. 
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on intermediate level projects 
 - 📫Reach me by https://www.linkedin.com/in/gokul-chandar-3521aa231
